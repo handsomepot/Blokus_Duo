@@ -1,0 +1,7 @@
+ 1  0 V3 V3 0 L4 L4 L4 0 T4 0  0  0 Z4 Z4  0 L5 L5 L5 L5  0 V5 V5 V5  0  0   0  0  N  N  0  0 0  0
+ 0  0  0 V3 0  0  0 L4 0 T4 0 0  Z4 Z4  0 0  L5  0  0  0  0 V5  0  0  0 T5   0  0  0  N  N  N 0 I5
+I2 I2  0  0 0 I4  0  0 0 T4 0  0  0  0  0  0  0  0  X  0  0 V5  0 T5 T5 T5   0  0  0  0  0  0 0 I5
+ 0  0  0 I3 0 I4  0  P 0  0 0  W  W  0  F  0  0  X  X  X  0  0  0  0  0 T5   0 Z5 Z5  0  U  U 0 I5
+ O  O  0 I3 0 I4  0  P P  0 W  W  0  0  F  F  0  0  X  0  0  Y  0  0  0  0   0 Z5  0  0  0  U 0 I5
+ O  O  0 I3 0 I4  0  P P  0 W  0  0  F  F  0  0  0  0  0  Y  Y  Y  Y  0  0  Z5 Z5  0  0  U  U 0 I5
+ 
