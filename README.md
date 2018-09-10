@@ -1,2 +1,2 @@
 # Blokus_Duo
-Download the whole folder and run duo.rar
+Download the whole folder and run duo.jar
